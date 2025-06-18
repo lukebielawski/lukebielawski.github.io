@@ -497,6 +497,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/Luke Bielawski", "_blank");
         },
       },{
+        id: 'social-goodreads',
+        title: 'Goodreads',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.goodreads.com/user/show/185164847-luke-bielawski", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
