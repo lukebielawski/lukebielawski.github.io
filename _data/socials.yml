@@ -49,3 +49,7 @@ linkedin_username: Luke Bielawski # your LinkedIn user name
   # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   # title: Custom Social
   # url: https://www.alberteinstein.com/
+goodreads: 
+  logo: https://commons.wikimedia.org/wiki/File:Goodreads_logo_-_SuperTinyIcons.svg
+  title: Goodreads
+  url: https://www.goodreads.com/user/show/185164847-luke-bielawski
