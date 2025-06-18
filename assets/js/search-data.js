@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Luke Bielawski", "_blank");
+          window.open("https://www.linkedin.com/in/luke-bielawski-510b4327a", "_blank");
         },
       },{
         id: 'social-goodreads',
