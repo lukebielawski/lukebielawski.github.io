@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a math and physics student at the University of Illinois. I am interested in probability theory, differential geometry, and theoretical physics. I am interested in pursuing graduate studies. I am currently an REU student at the University of Maryland TREND program under Jeffrey Kuan and Konstantina Trivisa studying flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
+I am a (rising third year) math and physics student at the University of Illinois. I am interested in probability theory, differential geometry, and theoretical physics. I am interested in pursuing graduate studies. I am currently an REU student at the University of Maryland TREND program under Jeffrey Kuan and Konstantina Trivisa studying flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
 
-Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Link to your favorite [subreddit](http://reddit.com).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
