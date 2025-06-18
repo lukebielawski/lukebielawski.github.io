@@ -20,7 +20,7 @@ email: lukeb5@illinois.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: Luke Bielawski # your LinkedIn user name
+linkedin_username: luke-bielawski-510b4327a # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -50,6 +50,6 @@ linkedin_username: Luke Bielawski # your LinkedIn user name
   # title: Custom Social
   # url: https://www.alberteinstein.com/
 goodreads: 
-  logo: https://commons.wikimedia.org/wiki/File:Goodreads_logo_-_SuperTinyIcons.svg
+  logo: https://www.goodreads.com/images/icons/goodreads_icon_100x100.png?1297385984
   title: Goodreads
   url: https://www.goodreads.com/user/show/185164847-luke-bielawski
