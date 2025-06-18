@@ -27,10 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a (rising third year) math and physics student at the University of Illinois. I am interested in probability theory, differential geometry, and theoretical physics. I am interested in pursuing graduate studies. I am currently an REU student at the University of Maryland TREND program under Jeffrey Kuan and Konstantina Trivisa studying flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
+I am a (rising third year) math and physics student at the University of Illinois. I am interested in probability theory, differential geometry, and theoretical physics. I am currently participating in an REU at the University of Maryland TREND program under Jeffrey Kuan and Konstantina Trivisa studying flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
 
-Link to your favorite [subreddit](http://reddit.com).
+# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
