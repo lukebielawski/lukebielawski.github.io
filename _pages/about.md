@@ -27,7 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a (rising third year) math and physics student at the University of Illinois. I am interested in probability theory, differential geometry, and theoretical physics. I am currently participating in an REU at the University of Maryland TREND program under Jeffrey Kuan and Konstantina Trivisa studying flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
+I am a (rising) third year math and physics student at the University of Illinois Urbana-Champaign. I am generally interested in probability theory and diffential geometry. Recently, I have been interested in Poisson geometry and stochastic differential equations.
+
+I am currently (Summer 2025) participating in the TREND REU program at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I am studying collective emergence and flocking models (Quorum Sensing and Cucker-Smake) by analzing PDEs.
+
+I am also a fan of music, flute, and reading.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
