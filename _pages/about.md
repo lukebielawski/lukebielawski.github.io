@@ -31,7 +31,7 @@ I am a (rising) third year math and physics student at the University of Illinoi
 
 I am currently (Summer 2025) participating in the TREND REU program at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I am studying collective emergence and flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
 
-I am also a fan of finance, music / flute, and reading.
+I am also a fan of quantitative finance, music / flute, and reading.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
