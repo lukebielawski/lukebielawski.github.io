@@ -4,6 +4,24 @@
     "email": "lukeb5@illinois.edu",
     "phone": "(224) 330-8064"
   },
+  "education": [
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Urbana-Champaign, IL",
+      "area": "BS in Mathematics, BS in Physics, Minor in Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "08-2023",
+      "endDate": "05-2026",
+      "score": "3.98",
+      "courses": ["Smooth Manifolds I & II",
+                  "Measure Theory",
+                  "Probability Theory",
+                  "Electrodynamics I & II",
+                  "Quantum Mechanics",
+                  "Data Structures"
+    ]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -15,22 +33,19 @@
       "highlights": ["Relativity"]
     }
   ],
-  "education": [
+  "awards": [
     {
-      "institution": "University of Illinois Urbana-Champaign",
-      "location": "Urbana-Champaign, IL",
-      "area": "BS in Mathematics, BS in Physics, Minor in Computer Science",
-      "studyType": "Bachelors",
-      "startDate": "08-2023",
-      "endDate": "05-2026",
-      "score": "10",
-      "courses": ["Smooth Manifolds I & II",
-                  "Measure Theory",
-                  "Probability Theory",
-                  "Electrodynamics I & II",
-                  "Quantum Mechanics",
-                  "Data Structures"
-    ]
+      "title": "Campus Honors Program",
+      "date": "08-2023 - present",
+      "awarder": "University of Illinois Urbana-Champaign",
+      "url": "https://honors.illinois.edu/",
+      "summary": "Honors program for ~1.5% of undergraduates"
+    },
+    {
+      "title": "Dean's List",
+      "date": "12-2023 - present",
+      "awarder": "University of Illinois Urbana-Champaign",
+      "summary": "GPA award for top 20%"
     }
   ],
   "skills": [
