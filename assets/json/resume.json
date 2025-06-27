@@ -13,7 +13,8 @@
       "startDate": "08-2023",
       "endDate": "05-2026",
       "score": "3.98",
-      "courses": ["Smooth Manifolds I & II",
+      "courses": ["Abstract Algebra",
+                  "Smooth Manifolds I & II",
                   "Measure Theory",
                   "Probability Theory",
                   "Electrodynamics I & II",
@@ -45,7 +46,7 @@
       "title": "Dean's List",
       "date": "12-2023 - present",
       "awarder": "University of Illinois Urbana-Champaign",
-      "summary": "GPA award for top 20%"
+      "summary": "GPA award for top 20% of undergraduates"
     }
   ],
   "skills": [
@@ -89,18 +90,6 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
       "name": "Quantum Computing",
@@ -109,6 +98,16 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    },
+    {
+      "name": "SURE: Speedier Simulations",
+      "summary": "Quasi-Monte Carlo methods are used in numerical simulations when dealing with random variables. In this REU project, I explored the use of these methods on estimating the density of functions of many random variables, an idea that is widely applicable across many industries. I also tested these methods in Python, working in and on the QMCPy repository.",
+      "highlights": ["Investigated low discrepancy sequences and their application to kernel density estimation", 
+                    "Researched and implemented quasi-Monte Carlo density estimation with conditioning into QMCPy", 
+                    "Presented research biweekly for other students and faculty utilizing LaTeX and Beamer"],
+      "startDate": "05-2024",
+      "endDate": "08-2024",
+      "url": "https://lukebielawski.github.io/projects/2_project/"
     }
   ]
 }
