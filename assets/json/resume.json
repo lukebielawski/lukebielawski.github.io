@@ -61,8 +61,7 @@
                     "Proving the existence of solutions using a variety of tools from functional analysis",
                     "Collaborating with faculty and peers to explore computational methods for efficient calculation"],
       "startDate": "06-2025",
-      "endDate" : "08-2024",
-      "url": "https://lukebielawski.github.io/projects/3_project/"
+      "endDate" : "08-2024"
     },
     {
       "name": "(NSF REU) SURE: Speedier Simulations at the Illinois Institute of Technology",
@@ -71,8 +70,7 @@
                     "Researched and implemented quasi-Monte Carlo density estimation with conditioning into QMCPy", 
                     "Presented research biweekly for other students and faculty utilizing LaTeX and Beamer"],
       "startDate": "05-2024",
-      "endDate": "08-2024",
-      "url": "https://lukebielawski.github.io/projects/2_project/"
+      "endDate": "08-2024"
     },
     {
       "name": "Illinois Mathematics Lab: Linear Poisson Structures and their Cohomology at the University of Illinois",
@@ -81,8 +79,7 @@
                     "Wrote Python code to automatically calculate Cohomology classes with finite degree power series", 
                     "Exhibited findings at Undergraduate Research Symposium and IML Poster Session"],
       "startDate": "01-2024",
-      "endDate": "05-2024",
-      "url": "https://lukebielawski.github.io/projects/1_project/"
+      "endDate": "05-2024"
     }
   ],
   "work": [
