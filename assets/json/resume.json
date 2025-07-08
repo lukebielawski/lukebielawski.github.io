@@ -61,7 +61,7 @@
                     "Proving the existence of solutions using a variety of tools from functional analysis",
                     "Collaborating with faculty and peers to explore computational methods for efficient calculation"],
       "startDate": "06-2025",
-      "endDate" : "08-2024"
+      "endDate" : "08-2025"
     },
     {
       "name": "(NSF REU) SURE: Speedier Simulations at the Illinois Institute of Technology",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Illinois Mathematics Lab: Linear Poisson Structures and their Cohomology at the University of Illinois",
-      "summary": "Poisson structures are special geometric objects, originally arising out of classical mechanics. One particular class of them arises out of any Lie algebra, called a linear Poisson structure. In this project, we calculated the Poisson cohomlogy of different Linear Poisson structures (with power series solutions), which gave insight to the geometry of these structures. I also created Python and Sage code to be able to automatically preform these calculations.",
+      "summary": "Poisson structures are special geometric objects, originally arising out of classical mechanics. One particular class of them arises out of any Lie algebra, called a linear Poisson structure. In this project, we calculated the Poisson cohomlogy of different Linear Poisson structures (with power series solutions), which gave geometric insight. I also created Python and Sage code to be able to automatically preform these calculations.",
       "highlights": ["Calculated Cohomology groups for various linear Poisson structures via power series", 
                     "Wrote Python code to automatically calculate Cohomology classes with finite degree power series", 
                     "Exhibited findings at Undergraduate Research Symposium and IML Poster Session"],
