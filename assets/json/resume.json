@@ -17,12 +17,12 @@
                   "Differential Geometry",
                   "Honors Abstract Linear Algebra",
                   "Honors Real Analysis",
-                  "Honors Abstract Algebra",
                   "Partial Differential Equations",
                   "Probability Theory",
+                  "Honors Abstract Algebra",
                   "Smooth Manifolds I & II (G)",
-                  "Poisson Geometry (Independent Study)",
                   "Measure Theory (G)",
+                  "Poisson Geometry (Independent Study)",
                   "Probability Theory (G)",
                   "Classical Mechanics I & II",
                   "Electrodynamics I & II",
@@ -87,13 +87,26 @@
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Varisty Tutors",
+      "position": "Remote Tutor for ACT, SAT, Competition Math",
+      "url": "https://www.varsitytutors.com/",
+      "startDate": "06-2023",
+      "endDate": "08-2023",
+      "summary": "",
+      "highlights": ["Provided individual instruction to 6 students on a weekly basis over a two-month span",
+                    "Measured student progress through regular testing, adapting instruction to match individual needs",
+                    "Taught content as well as test-taking techniques to best prepare students for their academic goals"]
+    },
+    {
+      "name": "Code Ninjas",
+      "position": "Code Sensei",
+      "url": "https://www.codeninjas.com/",
+      "startDate": "06-2022",
+      "endDate": "11-2022",
+      "summary": "",
+      "highlights": ["Instructed groups of 25 students aged 8-14 on introductory JavaScript, Scratch, and Roblox",
+                    "Maintained classroom equipment, offered one-on-one assistance, and operated front desk",
+                    "Ran a week-long summer day camp program for students ages 3-8 introducing computer science concepts"]
     }
   ],
   "languages": [
