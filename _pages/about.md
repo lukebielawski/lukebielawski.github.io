@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a (rising) third year math and physics student at the University of Illinois Urbana-Champaign. I am generally interested in probability theory and diffential geometry. Recently, I have been interested in stochastic differential equations and Poisson geometry.
+I am a  third year math and physics student at the University of Illinois Urbana-Champaign. I am generally interested in probability theory and diffential geometry. Recently, I have been interested in stochastic differential equations and Poisson geometry.
 
-I am currently (Summer 2025) participating in the TREND REU program at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I am studying collective emergence and flocking models (Quorum Sensing and Cucker-Smale) by analyzing PDEs.
+During Summer 2025, I am participating in the TREND REU program at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I am studying collective emergence and flocking models (Quorum Sensing and Cucker-Smale) by passing to a kinetic model and analyzing the PDE.
 
 I am also a fan of quantitative finance, music / flute, and reading.
 

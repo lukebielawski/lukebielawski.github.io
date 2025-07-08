@@ -13,10 +13,16 @@
       "startDate": "08-2023",
       "endDate": "05-2026",
       "score": "3.98",
-      "courses": ["Abstract Algebra",
+      "courses": ["Abstract Linear Algebra",
+                  "Real Analysis",
+                  "Abstract Algebra",
+                  "Partial Differential Equations",
+                  "Proability Theory",
                   "Smooth Manifolds I & II",
+                  "Poisson Geometry (Independent Study)",
                   "Measure Theory",
-                  "Probability Theory",
+                  "Probability Theory (G)",
+                  "Classical Mechanics I & II",
                   "Electrodynamics I & II",
                   "Quantum Mechanics",
                   "Data Structures"
@@ -51,16 +57,15 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer Science",
+      "level": "Undergraduate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "MATLAB",
+        "Mathematica",
+        "Microsoft Excel"
       ]
     }
   ],
@@ -78,15 +83,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Poisson Geometry",
+        "Stochastic Differential Equations",
+        "Mathematical Physics",
+        "Quantitative Finance",
+        "Numerical Methods",
+        "Partial Differential Equations"
       ]
     }
   ],
