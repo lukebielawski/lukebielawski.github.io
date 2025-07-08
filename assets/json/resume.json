@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Basic Info": {
     "name": "Luke Bielawski",
     "email": "lukeb5@illinois.edu",
     "phone": "(224) 330-8064"
@@ -11,13 +11,14 @@
       "area": "BS in Mathematics, BS in Physics, Minor in Computer Science",
       "studyType": "Bachelors",
       "startDate": "08-2023",
-      "endDate": "05-2026",
+      "endDate": "05-2027",
       "score": "3.98",
-      "courses": ["Abstract Linear Algebra",
+      "courses": ["Differential Geometry",
+                  "Abstract Linear Algebra",
                   "Real Analysis",
                   "Abstract Algebra",
                   "Partial Differential Equations",
-                  "Proability Theory",
+                  "Probability Theory (UG)",
                   "Smooth Manifolds I & II",
                   "Poisson Geometry (Independent Study)",
                   "Measure Theory",
@@ -29,7 +30,7 @@
     ]
     }
   ],
-  "work": [
+  "Research": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -46,7 +47,14 @@
       "date": "08-2023 - present",
       "awarder": "University of Illinois Urbana-Champaign",
       "url": "https://honors.illinois.edu/",
-      "summary": "Honors program for ~1.5% of undergraduates"
+      "summary": "Honors program for ~1.5% of all undergraduates"
+    },
+    {
+      "title": "LAS James Scholar",
+      "date": "08-2023 - present",
+      "awarder": "University of Illinois Urbana-Champaign",
+      "url": "https://las.illinois.edu/resources/honors",
+      "summary": "Honors program for ~10-15% of Liberal Arts and Sciences undergraduates"
     },
     {
       "title": "Dean's List",
@@ -84,17 +92,17 @@
   "interests": [
     {
       "name": "Pure",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Poisson Geometry",
-        "Mathmeatical Physics",
+        "Mathematical Physics",
         "Stochastic Differential Equations",
         "Partial Differential Equations"
       ]
     },
     {
       "name": "Applied",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantiative Finance",
         "Numerical Methods",
