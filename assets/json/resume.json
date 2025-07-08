@@ -30,18 +30,7 @@
     ]
     }
   ],
-  "Research": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "awards": [
+    "awards": [
     {
       "title": "Campus Honors Program",
       "date": "08-2023 - present",
@@ -63,18 +52,47 @@
       "summary": "GPA award for top 20% of undergraduates"
     }
   ],
-  "skills": [
+  "projects": [
     {
-      "name": "Computer Science",
-      "level": "Undergraduate",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C++",
-        "MATLAB",
-        "Mathematica",
-        "Microsoft Excel"
-      ]
+      "name": "(NSF REU) TREND: Collective Behavior at the University of Maryland",
+      "summary": "In Progress",
+      "highlights": ["Developing a kinetic equation from a biological model to better understand bacterial behavior",
+                    "Proving the existence of solutions using a variety of tools from functional analysis",
+                    "Collaborating with faculty and peers to explore computational methods for efficient calculation"],
+      "startDate": "06-2025",
+      "endDate" : "08-2024",
+      "url": "https://lukebielawski.github.io/projects/3_project/"
+    },
+    {
+      "name": "(NSF REU) SURE: Speedier Simulations at the Illinois Institute of Technology",
+      "summary": "Quasi-Monte Carlo (QMC) methods offer improved efficiency when doing simulations involving random variables. In this program, I explored the use of QMC methods in numerically calculating the density of a function of random variables. I tested these methods in Python, working in and on the QMCPy repository",
+      "highlights": ["Investigated low discrepancy sequences and their application to kernel density estimation", 
+                    "Researched and implemented quasi-Monte Carlo density estimation with conditioning into QMCPy", 
+                    "Presented research biweekly for other students and faculty utilizing LaTeX and Beamer"],
+      "startDate": "05-2024",
+      "endDate": "08-2024",
+      "url": "https://lukebielawski.github.io/projects/2_project/"
+    },
+    {
+      "name": "Illinois Mathmeatics Lab: Linear Poisson Structures and their Cohomology at the University of Illinois",
+      "summary": "Poisson structures are special geometric objects, originally arising out of classical mechanics. One particular class of them arises out of any Lie algebra, called a linear Poisson structure. In this project, we calculated the Poisson cohomlogy of different Linear Poisson structures (with power series solutions), which gave insight to the geometry of these structures. I also created Python and Sage code to be able to automatically preform these calculations.",
+      "highlights": ["Calculated Cohomology groups for various linear Poisson structures via power series", 
+                    "Wrote Python code to automatically calculate Cohomology classes with finite degree power series", 
+                    "Exhibited findings at Undergraduate Research Symposium and IML Poster Session"],
+      "startDate": "01-2024",
+      "endDate": "05-2024",
+      "url": "https://lukebielawski.github.io/projects/1_project/"
+    }
+  ],
+  "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "languages": [
@@ -87,6 +105,20 @@
       "language": "Italian",
       "fluency": "Conversational",
       "icon": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Science",
+      "level": "Undergraduate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C++",
+        "MATLAB",
+        "Mathematica",
+        "Microsoft Excel"
+      ]
     }
   ],
   "interests": [
@@ -108,18 +140,6 @@
         "Numerical Methods",
         "Probability Theory"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "SURE: Speedier Simulations",
-      "summary": "Quasi-Monte Carlo methods are used in numerical simulations when dealing with random variables. In this REU project, I explored the use of these methods on estimating the density of functions of many random variables, an idea that is widely applicable across many industries. I also tested these methods in Python, working in and on the QMCPy repository.",
-      "highlights": ["Investigated low discrepancy sequences and their application to kernel density estimation", 
-                    "Researched and implemented quasi-Monte Carlo density estimation with conditioning into QMCPy", 
-                    "Presented research biweekly for other students and faculty utilizing LaTeX and Beamer"],
-      "startDate": "05-2024",
-      "endDate": "08-2024",
-      "url": "https://lukebielawski.github.io/projects/2_project/"
     }
   ]
 }
