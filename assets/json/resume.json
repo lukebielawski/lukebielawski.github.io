@@ -83,25 +83,26 @@
   ],
   "interests": [
     {
+      "name": "Pure",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Poisson Geometry",
+        "Mathmeatical Physics",
         "Stochastic Differential Equations",
-        "Mathematical Physics",
-        "Quantitative Finance",
-        "Numerical Methods",
         "Partial Differential Equations"
+      ]
+    },
+    {
+      "name": "Applied",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantiative Finance",
+        "Numerical Methods",
+        "Probability Theory"
       ]
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
     {
       "name": "SURE: Speedier Simulations",
       "summary": "Quasi-Monte Carlo methods are used in numerical simulations when dealing with random variables. In this REU project, I explored the use of these methods on estimating the density of functions of many random variables, an idea that is widely applicable across many industries. I also tested these methods in Python, working in and on the QMCPy repository.",
