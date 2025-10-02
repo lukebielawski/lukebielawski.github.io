@@ -29,7 +29,10 @@ latest_posts:
 
 I am a  third year math and physics student at the University of Illinois Urbana-Champaign. I am generally interested in probability theory and diffential geometry. Recently, I have been interested in stochastic differential equations and Poisson geometry.
 
-During Summer 2025, I am participating in the TREND REU program at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I am studying collective emergence and flocking models (Quorum Sensing and Cucker-Smale) by passing to a kinetic model and analyzing the PDE.
+
+During Summer 2026, I will be interning as a quantitative trader at IMC in Chicago. 
+
+During Summer 2025, I was a TREND REU program partcipant at the University of Maryland under Jeffrey Kuan and Konstantina Trivisa. I studied collective emergence and flocking models (quorum sensing as a Cucker-Smale model) by passing to a kinetic equation and analyzing the resulting PDE. We also briefly explored stochastic adjustments to the ODE model.
 
 I am also enthusiastic about quantitative finance, music / flute, and reading.
 

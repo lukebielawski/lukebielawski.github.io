@@ -57,9 +57,10 @@
     {
       "name": "(NSF REU) TREND: Collective Behavior at the University of Maryland",
       "summary": "In Progress",
-      "highlights": ["Developing a kinetic equation from a biological model to better understand bacterial behavior",
-                    "Proving the existence of solutions using a variety of tools from functional analysis",
-                    "Collaborating with faculty and peers to explore computational methods for efficient calculation"],
+      "highlights": ["Developed a kinetic equation and proved existence of solutions using a variety of tools from analysis",
+      "Explored flocking and stochastic adjustments, analytically and numerically solving SDEs",
+      "Collaborated with faculty and peers to explore computational methods for efficient calculation", 
+      "Publication of work in progress"],
       "startDate": "06-2025",
       "endDate" : "08-2025"
     },
@@ -83,6 +84,14 @@
     }
   ],
   "work": [
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "position": "Undergraduate Course Assistant",
+      "startDate": "08-2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Running biweekly discussion of 20 students, teaching course material and helping with problem solving", "Holding weekly office hours; answering student questions online; proctoring and grading exams"]
+    },
     {
       "name": "Varisty Tutors",
       "position": "Remote Tutor for ACT, SAT, Competition Math",
